@@ -1,0 +1,8 @@
+example name,ryu,chun
+example name,ken,jun
+example name,cjoe,roll
+example name,PTX,blank
+example name,vjoe,tekkaman
+example name,doronjo,alex
+example name,ryu,blade
+example name,zero,saki
